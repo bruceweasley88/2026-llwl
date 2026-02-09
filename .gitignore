@@ -31,10 +31,9 @@ components.d.ts
 *.sln
 *.sw?
 
-# .env
+# .envs
 .env.development
 .env.production
 
 /admin/dist
-server
 /server/public/admin
